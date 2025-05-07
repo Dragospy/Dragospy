@@ -1,17 +1,17 @@
-## Hi there 👋
-Always learning...
+# 👋 Hello, I'm Dragospy!
 
-<!--
-**Dragospy/Dragospy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 1st Year Computer Science Student, wanting to become a Software Engineer and Entrepreneur. I have experience in a wide range of areas, as shown by my Repository's.
 
-Here are some ideas to get you started:
+## 📈 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Dragospy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dragospy&show_icons=true&theme=radical)
+![Dragospy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dragospy&layout=compact&theme=radical)
+
+## 📫 Connect with Me
+
+- 🌍 Location: London, UK
+- 💼 LinkedIn: [Dragos Soalca](https://www.linkedin.com/in/dragosesoalca/)
+
+I'm always eager to collaborate on exciting projects and contribute to the community. Feel free to reach out!
+
+---
