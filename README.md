@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Dragospy!
 
-I'm a 1st Year Computer Science Student, wanting to become a Software Engineer and Entrepreneur. I have experience in a wide range of areas, as shown by my Repository's.
+I'm a 2nd Year Computer Science Student, wanting to become a Software Engineer and Entrepreneur. I have experience in a wide range of areas, as shown by my Repository's.
 
 ## 📈 GitHub Stats
 
