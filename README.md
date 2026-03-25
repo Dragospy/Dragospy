@@ -4,8 +4,8 @@ I'm a 2nd Year Computer Science Student, wanting to become a Software Engineer a
 
 ## 📈 GitHub Stats
 
-![Dragospy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dragospy&show_icons=true&theme=transparent)
-![Dragospy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dragospy&layout=compact&theme=transparent)
+![Dragospy's GitHub Stats](http://2.59.132.114:9000/api?username=Dragospy&show_icons=true&theme=transparent)
+![Dragospy's Top Languages](http://2.59.132.114:9000/api/top-langs/?username=Dragospy&layout=compact&theme=transparent)
 
 ## 📫 Connect with Me
 
